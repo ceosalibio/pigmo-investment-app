@@ -1,21 +1,21 @@
-# 🐷 PIGMO Investment App
+# 🐷 PIGMO - Smart Pig Farming Investment
 
-A modern, attractive Vue.js investment application for pig farming investments.
+A modern, attractive Vue.js investment application for pig farming opportunities.
 
-## 🌟 Features
+## ✨ Features
 
-- **Home Page** - Eye-catching hero section with compelling investment message
-- **About Page** - Professional business overview
-- **Contact Us** - User-friendly contact form
-- **Quotation Calculator** - Interactive tool showing 20% profit in 3 months
-- **Modern UI/UX** - Fully responsive and attractive design
-- **Smooth Animations** - Professional transitions and effects
+- 🏠 **Home** - Beautiful hero section with compelling investment message
+- 📖 **About** - Professional business overview
+- 📞 **Contact Us** - User-friendly contact form
+- 💰 **Quotation** - Interactive calculator showing 20% profit in 3 months
+- 📱 Fully responsive design
+- 🎨 Modern UI with smooth animations
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Node.js (v16 or higher)
+- Node.js (version 16 or higher)
 - npm or yarn
 
 ### Installation
@@ -44,16 +44,14 @@ npm run dev
 npm run build
 ```
 
-## 🎨 Tech Stack
+The built files will be in the `dist` directory.
 
-- Vue 3
-- Vue Router
-- Vite
-- Modern CSS
+## 🎨 Design
 
-## 💰 Investment Model
-
-PIGMO offers a 20% return on investment over 3 months through smart pig farming practices.
+- Modern, professional UI
+- Warm color scheme with pink accents
+- Smooth animations and transitions
+- Mobile-first responsive design
 
 ## 📄 License
 
@@ -61,4 +59,4 @@ MIT License
 
 ---
 
-Built with ❤️ for smart investors
+Made with ❤️ for PIGMO Investment
